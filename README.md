@@ -1,2 +1,2 @@
-# nodes_class
+# nodejs_class
 workspace for node.js course
