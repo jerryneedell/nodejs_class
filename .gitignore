@@ -1,0 +1,8 @@
+# https certs
+*.pem
+
+
+
+# JSON data
+*.json
+
